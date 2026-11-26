@@ -1,3 +1,4 @@
+```
 repo/
 ├── AGENTS.md                       # source of truth for instructions (Codex, Cursor read it. Gemini reads GEMINI.md)
 ├── CLAUDE.md                       # one line: @AGENTS.md
@@ -17,3 +18,4 @@ repo/
 │   └── settings.local.json         # your personal settings, not committed
 │
 └── docs/                           # your knowledge: design, notes, understanding logs
+```
