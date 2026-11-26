@@ -1,3 +1,4 @@
+# How-to-guide
 ```
 repo/
 ├── AGENTS.md                       # source of truth for instructions (Codex, Cursor read it. Gemini reads GEMINI.md)
